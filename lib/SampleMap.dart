@@ -109,7 +109,6 @@ class _MapViewState extends State<MapView> {
              //  scrollDirection: Axis.horizontal,
               shrinkWrap: true,
               children: [
-                
                 InkWell(
                   onTap: (){
                     setMakers(1);
